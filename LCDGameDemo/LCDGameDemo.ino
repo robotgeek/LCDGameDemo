@@ -56,8 +56,8 @@
 
 //define analog input pins
 #define KNOB_PIN 0
-#define JOYSTICK_PIN_HORIZONTAL 1
-#define JOYSTICK_PIN_VERTICAL 2
+#define JOYSTICK_PIN_VERTICAL 1
+#define JOYSTICK_PIN_HORIZONTAL 2
 
 //define digital input pin
 #define BUTTON_PIN 2
